@@ -1,0 +1,25 @@
+[{
+  "gender": "male",
+  "height": 171,
+  "weight": 96
+}, {
+  "gender": "male",
+  "height": 161,
+  "weight": 85
+}, {
+  "gender": "male",
+  "height": 180,
+  "weight": 77
+}, {
+  "gender": "female",
+  "height": 166,
+  "weight": 62
+}, {
+  "gender": "female",
+  "height": 150,
+  "weight": 70
+}, {
+  "gender": "female",
+  "height": 167,
+  "weight": 82
+}]
