@@ -15,7 +15,6 @@ const client = new MongoClient(url);
 var dbObj;
 
 client.connect((err) => {
-  console.log("error", err);
   assert.equal(null, err);
   console.log('Connected successfully to server');
 
